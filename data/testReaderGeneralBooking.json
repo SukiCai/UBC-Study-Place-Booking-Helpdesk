@@ -1,0 +1,21 @@
+{
+  "name": "My booking",
+  "libraries": [
+    {
+      "name": "Woodward Library",
+      "Booked Time": ["16:00 - 18:00"]
+    },
+    {
+      "name": "Biomedical Branch Library",
+      "Booked Time": ["16:00 - 18:00"]
+    },
+    {
+      "name": "David Lam Library",
+      "Booked Time": ["16:00 - 18:00"]
+    },
+    {
+      "name": "Asian Library",
+      "Booked Time": ["9:00 - 12:00"]
+    }
+  ]
+}

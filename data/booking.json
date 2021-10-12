@@ -1,0 +1,7 @@
+{
+    "name": "My booking",
+    "libraries": [{
+        "name": "Asian Library",
+        "Booked Time": ["9:00 - 12:00"]
+    }]
+}
